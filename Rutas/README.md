@@ -1,9 +1,10 @@
-<strong># DESCRIPCIÓN</strong>
-<hr/>
-El código que aquí se presenta calcula la ruta más corta entre dos puntos dado un mapa.
-
-<br/>
-<strong># BEAN</strong>
-<hr/>
-<strong>## Arista</strong>
+# Bean
+#### Arista
+Este objeto contiene:
+- Nodo: String. 
+- Coste: double. 
+#### Ruta
+Este objeto contiene:
+- Coste: double.
+- Aristas: List<Arista>
 
