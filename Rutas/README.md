@@ -13,3 +13,7 @@ El mapa necesario para usar este código lo facilitamos con el fichero <strong>m
 ```sh
 Rutas\mapa.txt
 ```
+Como se puede ver cada línea contiene:
+- Nombre de un extremo.
+- Nombre del otro extremo.
+- Coste del recorrido para ir de un extremo al otro.
